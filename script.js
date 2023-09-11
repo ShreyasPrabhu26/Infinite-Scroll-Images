@@ -1,9 +1,9 @@
 "use strict"
 
+const count = 1;
 const apiKey = "dAB6IZ7RwT4_o1ykw6DUfS3b1vCmaIH4ilpdBjcUQQA";
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
-console.log(apiKey);
 async function getPhotos() {
     try {
         const response = await fetch(apiUrl);
