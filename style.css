@@ -8,4 +8,45 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Bebas Neue", sans-serif;
+  background: whitesmoke;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  letter-spacing: 5px;
+  font-size: 3rem;
+}
+
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+
+.loader img {
+  /* Centering Loader */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image-container {
+  margin: 10px 30%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.image-container img {
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .image-container {
+    margin: 10px;
+  }
 }
