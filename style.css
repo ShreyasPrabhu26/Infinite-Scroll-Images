@@ -41,6 +41,7 @@ h1 {
   flex-direction: column;
   gap: 10px;
 }
+
 .image-container img {
   width: 100%;
 }
@@ -49,4 +50,10 @@ h1 {
   .image-container {
     margin: 10px;
   }
+}
+
+/* To center the Twitter Button */
+header {
+  display: grid;
+  place-items: center;
 }

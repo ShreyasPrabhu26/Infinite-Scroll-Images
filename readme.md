@@ -24,7 +24,7 @@ Infinite Scroll Gallery is an exciting web application designed to provide users
 
 ## Installation and Setup 💻
 
-You don't need to install anything! Simply visit [Infinite Scroll Gallery](https://infinitescrollgallery.com) in your web browser, and start exploring beautiful images right away.
+You don't need to install anything! Simply visit [Infinite Scroll Gallery](https://shreyasprabhu26.github.io/Infinite-Scroll-Images/) in your web browser, and start exploring beautiful images right away.
 
 ## Technologies Used 🛠️
 
