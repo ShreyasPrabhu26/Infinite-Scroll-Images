@@ -14,7 +14,7 @@ Infinite Scroll Gallery is an exciting web application designed to provide users
 
 ## How to Use 🚀
 
-1. Visit the [Infinite Scroll Gallery][ https://shreyasprabhu26.github.io/Infinite-Scroll-Images/](https://github.com/ShreyasPrabhu26/InfinityView) website.
+1. Visit the [InfinityView]https://shreyasprabhu26.github.io/InfinityView/website.
 
 2. Begin scrolling down, and watch as new images appear automatically.
 
